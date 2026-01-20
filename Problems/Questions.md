@@ -25,3 +25,57 @@
 
 10. Print numbers in Rightangle Triangle 1, 1 2, 1 2 3 like vise 
 
+--- While Loop ---
+
+11. Print Fibonacci series up to n (0+1=1, 1+1=2, 1+2=3, 2+3=5, 3+5=8....)  
+
+12. To Find factorial of given number.
+
+13. Print Natural number up to n in reverse order.
+
+14. To check the entered number is Prime or not.
+
+15. ---- || ------ is palindrome or not 
+
+16. Find sum of digits of given number 
+
+17. reverse the given number 
+
+--- For Loop ---
+
+18. Write Program that prints 1, 2, 4, 8, 16, 32, ..., (n^2)
+
+Produce following design
+19. 
+ A B C
+ A B C  
+ A B C 
+20. 
+ A  
+ A B 
+ A B C 
+21. 
+ A B C  
+ A B
+ A  
+
+22. Study Different types of elements you can include in the array 
+
+23. To find entered number is present or not in the array
+
+24. To count how many times entered number is present in array 
+
+25. 
+
+
+
+
+
+
+
+
+
+
+
+
+
